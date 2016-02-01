@@ -1,5 +1,5 @@
 package Personagens;
 
-public class Dragao extends Personagem implements Monstro {
-
+public class Dragao extends Monstro{
+    
 }

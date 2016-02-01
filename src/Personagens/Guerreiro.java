@@ -1,5 +1,5 @@
 package Personagens;
 
-public interface Guerreiro {
-
+public abstract class Guerreiro extends Personagem {
+    int xp;
 }

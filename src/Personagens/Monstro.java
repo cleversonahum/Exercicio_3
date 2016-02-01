@@ -1,5 +1,6 @@
 package Personagens;
 
-public interface Monstro {
-
+public abstract class Monstro extends Personagem{
+    final int xp_gain = 100;
 }
+
